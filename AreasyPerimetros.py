@@ -1,0 +1,29 @@
+a=4
+b=5
+c=6
+h=3
+d=3
+r=2
+PI=3.14
+C1="Area: "
+C2="Perimetro: "
+print("Triangulo")
+print(C1)
+print((b*h)/2)
+print(C2)
+print(a+b+c)
+print("Rectangulo")
+print(C1)
+print((b*a))
+print(C2)
+print((2*a)+(2*b))
+print("Circulo")
+print(C1)
+print(PI*(r**2))
+print(C2)
+print(2*(PI*r))
+print("Trapesio")
+print(C1)
+print(((a+b)*h)/2)
+print(C2)
+print(a+b+c+d)
